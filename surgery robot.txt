@@ -1,5 +1,0 @@
-gt2 timing belt - belt used to move the plate on the Carriage Utility Mechanism up and down
-
-3D-Printed:
-	connectors between aluminum intersections
-	holding plate on the Carriage Utility Mechanism

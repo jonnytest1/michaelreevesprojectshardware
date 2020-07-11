@@ -1,0 +1,7 @@
+raspberry pi 3  - doing logic
+5V relay  - turn the drill circuit on and off
+m3 copper standoffs - standoffs between the chassis plates
+
+3D printed
+	chassis plates 
+	
