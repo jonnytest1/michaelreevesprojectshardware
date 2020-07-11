@@ -1,5 +1,8 @@
 gt2 timing belt - belt used to move the plate on the Carriage Utility Mechanism up and down
 
+odrive d5065 motor (https://odriverobotics.com/shop/odrive-custom-motor-d5065) move the Carriage Utility Mechanism around
+odrive motor driver (https://odriverobotics.com/shop/odrive-v36) control the motors
+
 3D-Printed:
 	connectors between aluminum intersections
 	holding plate on the Carriage Utility Mechanism
